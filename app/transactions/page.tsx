@@ -1,3 +1,3 @@
-const Transactions = () => {};
+const TransactionsPage = () => {};
 
-export default Transactions;
+export default TransactionsPage;

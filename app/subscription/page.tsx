@@ -1,3 +1,3 @@
-const Subscription = () => {};
+const SubscriptionPage = () => {};
 
-export default Subscription;
+export default SubscriptionPage;
